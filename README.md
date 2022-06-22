@@ -1,5 +1,5 @@
 # Web-App-for-Developer-Salary-Prediction
-# Created a web app which estimates the salaries of developers 
+* Created a web app which estimates the salaries of developers 
 # Used the StackOverFlow 2021 Survey results for my data
 # Optimized Linear, Decision Tree, Random forest and GridSearchCV to reach my best model
 # Used Streamlit to build web app and deployed on Streamlit Cloud
